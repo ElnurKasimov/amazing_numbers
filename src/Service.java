@@ -271,7 +271,6 @@ public class Service {
             propertyMap.put("happy", "false");
             propertyMap.put("sad", "true");
         }
-
         return propertyMap;
     }
 }
