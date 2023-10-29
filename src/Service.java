@@ -192,7 +192,6 @@ public class Service {
         return result;
     }
 
-
     private static String getPropertiesString (Map<String, String> properties) {
         StringBuilder propertyString = new StringBuilder();
         for (Map.Entry<String, String> entry : properties.entrySet()) {
